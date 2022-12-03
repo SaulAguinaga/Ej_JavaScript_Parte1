@@ -1,9 +1,9 @@
 
-Escribe un programa que escriba en la pantalla un texto de tipo <h1> que diga “Hello Javascript”.
+1-Escribe un programa que escriba en la pantalla un texto de tipo <h1> que diga “Hello Javascript”.
 
-Escribe un programa que escriba en la pantalla “La suma de 3 + 5 es <resultado>”.
+2-Escribe un programa que escriba en la pantalla “La suma de 3 + 5 es <resultado>”.
 
-Escribe un programa que pida el nombre del usuario con un input y escriba un texto que diga “Hola <nombre-de-usuario>”
+3-Escribe un programa que pida el nombre del usuario con un input y escriba un texto que diga “Hola <nombre-de-usuario>”
 
 Escribe un programa que pida dos números y escriba “La suma de <numero-uno> con <numero-dos> es <resultado>”.
 
