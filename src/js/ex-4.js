@@ -1,10 +1,10 @@
-let resultado=0;
-suma();
-document.write(resultado);
+let num1= prompt("Dame un numero", 0);
+let num2= prompt("Dame otro numero", 0);
+let result=0;
 
-function suma(){
-    let numero1=3;
-    let numero2=5;
+suma(num1, num2);
+document.write(result);
 
-    resultado=numero1+numero2;
+function suma(num1,num2){
+    result = (parseInt(num1)+parseInt(num2));
 }
